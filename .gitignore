@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Build
+.next/
+dist/
+build/
+out/
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# Local
+.DS_Store
+*.log
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+
+# Move build
+contract/build/
+
+# Misc
+.vercel
+.turbo
+.claude/
+0x*.key
+*.key

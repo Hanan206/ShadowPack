@@ -1,0 +1,9 @@
+[package]
+name = "shadowpack"
+edition = "legacy"
+
+[dependencies]
+One = { git = "https://github.com/one-chain-labs/onechain.git", subdir = "crates/sui-framework/packages/one-framework", rev = "v1.0.1" }
+
+[addresses]
+shadowpack = "0x0"
